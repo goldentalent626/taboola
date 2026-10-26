@@ -66,8 +66,6 @@
 
 Taboola (NASDAQ: TBLA) is a New-York-headquartered native and discovery advertising company founded in 2007 by Adam Singolda. Its Realize performance marketing platform serves recommendation widgets across major publishers (a 30-year exclusive partnership with Yahoo since 2022) and offers advertisers programmatic access via the Backstage API for campaign management, audience targeting, conversion tracking, and reporting. The company also operates Connexity (commerce media), Skimlinks (publisher monetization), and DeeperDive (content discovery), and recently shipped Abby (AI ad assistant), the GenAI Ad Maker, and an official Realize MCP server for AI-driven campaign management.
 
-**APIs.json:** [https://raw.githubusercontent.com/api-evangelist/taboola/refs/heads/main/apis.yml](https://raw.githubusercontent.com/api-evangelist/taboola/refs/heads/main/apis.yml)
-
 ## Scope
 
 - **Position:** Producing
@@ -284,9 +282,3 @@ Discover advertiser accounts allowed for the authenticated user, list all advert
 - [Rate Limits](rate-limits/taboola-rate-limits.yml)
 - [Fin Ops](finops/taboola-finops.yml)
 - [Features](undefined)
-
-## Maintainers
-
-**FN:** Kin Lane
-**Email:** info@apievangelist.com
-**URL:** https://apievangelist.com
